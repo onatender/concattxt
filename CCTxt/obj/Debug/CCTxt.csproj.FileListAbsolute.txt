@@ -1,0 +1,12 @@
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\bin\Debug\CCTxt.exe.config
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\bin\Debug\CCTxt.exe
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\bin\Debug\CCTxt.pdb
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\obj\Debug\CCTxt.csproj.AssemblyReference.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\obj\Debug\CCTxt.csproj.SuggestedBindingRedirects.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\obj\Debug\CCTxt.Form1.resources
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\obj\Debug\CCTxt.Properties.Resources.resources
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\obj\Debug\CCTxt.csproj.GenerateResource.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\obj\Debug\CCTxt.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\obj\Debug\CCTxt.exe
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\obj\Debug\CCTxt.pdb
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\CCTxt\CCTxt\obj\Debug\CCTxt.Form2.resources
